@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "730825212324",
+    "firebase_url": "https://serradisneykyleexam.firebaseio.com",
+    "project_id": "serradisneykyleexam",
+    "storage_bucket": "serradisneykyleexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730825212324:android:1f210d40d8546702",
+        "android_client_info": {
+          "package_name": "exam.disney.serra.serradisneykyleexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730825212324-d8ks8c2vgs20kfka8cufg9hqsqffujto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "exam.disney.serra.serradisneykyleexam",
+            "certificate_hash": "56ea1cd093cf61b587081ff59de8cf27ad68dd65"
+          }
+        },
+        {
+          "client_id": "730825212324-hnbnu65grg2tdnv76j7j3psbt5aq042f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkEQNlCLDUJUA61dXu6f957glrgkyKiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730825212324-hnbnu65grg2tdnv76j7j3psbt5aq042f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730825212324:android:afb9d0a202f94af9",
+        "android_client_info": {
+          "package_name": "exam.disney.serra.serradisneykyleexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730825212324-viau8a03ofqnq3fnubkpfmbd7k8bgd0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "exam.disney.serra.serradisneykyleexam2",
+            "certificate_hash": "56ea1cd093cf61b587081ff59de8cf27ad68dd65"
+          }
+        },
+        {
+          "client_id": "730825212324-hnbnu65grg2tdnv76j7j3psbt5aq042f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkEQNlCLDUJUA61dXu6f957glrgkyKiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730825212324-hnbnu65grg2tdnv76j7j3psbt5aq042f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
